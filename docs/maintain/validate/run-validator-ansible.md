@@ -17,7 +17,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::tip
 Steps in this guide involve waiting for the **Heimdall** and **Bor** services to fully sync.
-This process takes several days to complete. Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [Snapshot Instructions for Heimdall and Bor](../../develop/network-details/snapshot-instructions-heimdall-bor).
+This process takes several days to complete. Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [<ins>Snapshot Instructions for Heimdall and Bor</ins>](../../develop/network-details/snapshot-instructions-heimdall-bor).
 
 For snapshot download links, see [Polygon Chains Snapshots](https://snapshots.matic.today/).
 
@@ -308,7 +308,7 @@ You will first start the Heimdall service. Once the Heimdall service syncs, you 
 
 The Heimdall service takes several days to fully sync from scratch.
 
-Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [Snapshot Instructions for Heimdall and Bor](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
+Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [<ins>Snapshot Instructions for Heimdall and Bor</ins>](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
 
 For snapshot download links, see [Polygon Chains Snapshots](https://snapshots.matic.today/).
 
@@ -536,7 +536,7 @@ You will now start the Heimdall service on the validator machine. Once the Heimd
 
 The Heimdall service takes several days to fully sync from scratch.
 
-Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [Snapshot Instructions for Heimdall and Bor](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
+Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [<ins>Snapshot Instructions for Heimdall and Bor</ins>](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
 
 For snapshot download links, see [Polygon Chains Snapshots](https://snapshots.matic.today/).
 

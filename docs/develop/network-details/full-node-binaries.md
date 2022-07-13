@@ -30,7 +30,7 @@ For the system requirements, see [Minimum Technical Requirements](http://localho
 
 Steps in this guide involve waiting for the Heimdall and Bor services to fully sync. This process takes several days to complete.
 
-Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [Snapshot Instructions for Heimdall and Bor](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
+Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [<ins>Snapshot Instructions for Heimdall and Bor</ins>](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
 
 For snapshot download links, see [Polygon Chains Snapshots](https://snapshots.matic.today/).
 
@@ -303,7 +303,7 @@ For the system requirements, see [Minimum Technical Requirements](https://docs.p
 
 Steps in this guide involve waiting for the Heimdall and Bor services to fully sync. This process takes several days to complete.
 
-Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [Snapshot Instructions for Heimdall and Bor](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
+Alternatively, you can use a maintained snapshot, which will reduce the sync time to a few hours. For detailed instructions, see [<ins>Snapshot Instructions for Heimdall and Bor</ins>](https://forum.polygon.technology/t/snapshot-instructions-for-heimdall-and-bor/9233).
 
 For snapshot download links, see [Polygon Chains Snapshots](https://snapshots.matic.today/).
 
