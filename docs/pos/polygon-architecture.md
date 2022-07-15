@@ -92,6 +92,6 @@ More details are available on the [Bor architecture](/docs/pos/bor/overview) gui
 
 ### Resources
 
-* Bor Architecture: [https://forum.polygon.technology/t/matic-system-overview-bor/9123](https://forum.polygon.technology/t/matic-system-overview-bor/9123)
-* Heimdall Architecture: [https://forum.polygon.technology/t/matic-system-overview-heimdall/8323](https://forum.polygon.technology/t/matic-system-overview-heimdall/8323)
-* Checkpoint Mechanism: [https://forum.polygon.technology/t/checkpoint-mechanism-on-heimdall/7160](https://forum.polygon.technology/t/checkpoint-mechanism-on-heimdall/7160)
+* [Bor Architecture](https://forum.polygon.technology/t/matic-system-overview-bor/9123)
+* [Heimdall Architecture](https://forum.polygon.technology/t/matic-system-overview-heimdall/8323)
+* [Checkpoint Mechanism](https://forum.polygon.technology/t/checkpoint-mechanism-on-heimdall/7160)

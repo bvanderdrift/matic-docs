@@ -61,6 +61,6 @@ Block producers are periodically shuffled via committee selection on Heimdall in
 
 ### **:scroll:Resources**
 
-:paperclip: Bor Architecture: [https://forum.polygon.technology/t/matic-system-overview-bor/9123](https://forum.polygon.technology/t/matic-system-overview-bor/9123) <br/>
-:paperclip: Heimdall Architecture: [https://forum.polygon.technology/t/matic-system-overview-heimdall/8323](https://forum.polygon.technology/t/matic-system-overview-heimdall/8323) <br/>
-:paperclip: Checkpoint Mechanism: [https://forum.polygon.technology/t/checkpoint-mechanism-on-heimdall/7160](https://forum.polygon.technology/t/checkpoint-mechanism-on-heimdall/7160)
+:paperclip: [Bor Architecture](https://forum.polygon.technology/t/matic-system-overview-bor/9123) <br/>
+:paperclip: [Heimdall Architecture](https://forum.polygon.technology/t/matic-system-overview-heimdall/8323) <br/>
+:paperclip: [Checkpoint Mechanism](https://forum.polygon.technology/t/checkpoint-mechanism-on-heimdall/7160)

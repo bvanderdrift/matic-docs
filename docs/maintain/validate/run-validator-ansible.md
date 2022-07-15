@@ -249,11 +249,12 @@ Save the changes in `config.toml`.
 
 Open for editing `vi ~/.heimdalld/config/heimdall-config.toml`.
 
-In `heimdall-config.toml`, change the following:
+In `heimdall-config.toml`, change your RPC endpoint to point to a fully synced Ethereum mainnet node:
 
-* `eth_rpc_url` — an RPC endpoint for a fully synced Ethereum mainnet node, i.e Infura. `eth_rpc_url =<insert Infura or any full node RPC URL to Ethereum>`
+`eth_rpc_url = <insert Infura or any full node RPC URL to Ethereum>` 
 
-Example: `eth_rpc_url = "https://nd-123-456-789.p2pify.com/60f2a23810ba11c827d3da642802412a"`
+For example: `eth_rpc_url = "https://nd-123-456-789.p2pify.com/60f2a23810ba11c827d3da642802412a"`
+
 
 Save the changes in `heimdall-config.toml`.
 
